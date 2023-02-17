@@ -1,0 +1,99 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1:hover {
+    transform: scale(1.1);
+}
+
+.main {
+    display: inline-block;
+    margin-left: 4.5%;
+    margin-right: 4.5%;;
+    font-weight: bold;
+}
+
+#mainlist {
+    background-color:rgb(40, 50, 50);
+}
+
+div {
+    border: solid 3px whitesmoke;
+    padding-left: 1%;
+    padding-right: 3%;
+}
+
+div:hover {
+    transform: scale(1.1);
+}
+
+.span1 {
+    font-weight: bold;
+}
+
+.span2 {
+    color:crimson;
+}
+
+#datos {
+    position: absolute;
+    width: 26%;
+}
+
+#miembros {
+    position: absolute;
+    width: 24%;
+    margin-left: 70%;
+    margin-top: 5%;
+}
+
+#discografia {
+    position: absolute;
+    width: 35%;
+    margin-top: 16%;
+}
+
+#influencias {
+    width: 35%;
+    margin-left: 61%;
+    margin-top: 24%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: khaki;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+a:active {
+    background-color: yellow;
+}
+
+#greatest_hits {
+    border: none;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    text-align: center;
+}
+
+img {
+    width: 24%;
+}
+
+iframe {
+    width: 650px;
+    height: 415px;
+}

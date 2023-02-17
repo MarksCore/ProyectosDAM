@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="Author" content="Marcos Cerviño Pardo">
+    <meta name="Description" content="Formulario">
+    <link rel="stylesheet" href="formulario.css">
+    <title>Práctica HTML5/CSS3 - Formulario</title>
+</head>
+
+<body>
+    <form>
+        <table>
+            <tbody>
+                <tr>
+                    <td rowspan="6">
+                        <img src="img/pupassure.png" title="Cachorro de perro" alt="Imagen de cachorro de perro.">
+                    </td>
+                    <td>
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" id="nombre" name="nombre" maxlength="20" minlength="2" required>
+                    </td>
+
+                    <td>
+                        <label for="color">Color:</label>
+                        <input type="color" id="color" name="color" value="#ff0000">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="raza">Raza:</label>
+                        <input type="text" id="raza" name="raza" maxlength="50">
+                    </td>
+
+                    <td>
+                        <label for="cumpleaños">Cumpleaños</label>
+                        <input type="date" id="cumpleaños" name="cumpleaños" value="2022-02-02" min="2022-01-01"
+                            max="2022-12-31">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="sexo">Sexo:</label>
+                        <input type="radio" id="macho" class="sexo" name="sexo">
+                        <label class="sexo" for="macho">Macho</label>
+                        <input type="radio" id="hembra" class="sexo" name="sexo" >
+                        <label class="sexo" for="hembra">Hembra</label>
+                    </td>
+
+                    <td>
+                        <label for="telefono">Teléfono:</label>
+                        <input type="tel" id="telefono" name="telefono" minlength="9" maxlength="9">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <label for="descripcion">Descripción:</label>
+                        <textarea id="descripcion" name="descripcion" placeholder="Escribe aquí." rows="8"
+                            cols="60"></textarea>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="submit" id="enviar" name="enviar" value="Enviar">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+
+</html>

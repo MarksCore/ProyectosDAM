@@ -1,0 +1,113 @@
+body{
+    background-color: navajowhite;
+    margin: 2%;
+    padding: 2%;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: solid 2px darkred;
+    filter: grayscale(25%);
+}
+
+img:hover {
+    filter: saturate(120%);
+    transform: scale(1.1) 
+}
+
+#unica {
+    height: 350px;
+    width: 400px;
+    border: none;
+    filter: none;
+    transform: none;
+}
+
+#unica:hover {
+    filter: brightness(125%);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-shadow: 4px 4px 1px gray;
+    color: rgb(80, 15, 15);
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    color: rgb(80, 15, 15);
+}
+
+#subtitulo {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(80, 15, 15);
+}
+
+.otraletra{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+
+hr {
+    width: 80%;
+    margin-right: 70%;
+    color: darkred;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+iframe {
+    height: 355px;
+    width: 600px;
+    position: relative;
+    left: 55%;
+    bottom: 80%;
+}
+
+div {
+    border: solid 4px crimson;
+}
+
+#main { 
+    height: 80%;
+    width: 90%;
+    padding: 40px;
+    text-align: center;
+}
+
+#interior {
+    height: 90%;
+    width: 80%;
+    padding: 40px;
+    position: absolute;
+    padding-bottom: 150px;
+}
+
+#atras {
+    height: 120px;
+    width: 100px;
+    border: none;
+    position: relative;
+    bottom: 31%;
+    left: 47%;  
+}
+
+#encuesta {
+    border: none;
+    position: relative;
+    left: 55%;
+    bottom: 80%
+}
+
+b{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

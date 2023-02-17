@@ -1,0 +1,74 @@
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\PruebaAPI.exe.config
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\PruebaAPI.exe
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\PruebaAPI.pdb
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\RestSharp.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Buffers.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Memory.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Numerics.Vectors.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Encodings.Web.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Json.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.ValueTuple.dll
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\RestSharp.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Buffers.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Memory.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Numerics.Vectors.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Encodings.Web.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Json.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\bin\Debug\System.ValueTuple.xml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.AssemblyReference.cache
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.SuggestedBindingRedirects.cache
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\MainWindow.g.cs
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\App.g.cs
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI_MarkupCompile.cache
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI_MarkupCompile.lref
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\MainWindow.baml
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.g.resources
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.Properties.Resources.resources
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.GenerateResource.cache
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.CoreCompileInputs.cache
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.CopyComplete
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.exe
+F:\MarcosCervinoPardo\DesarrolloInterfaces\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.pdb
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\PruebaAPI.exe.config
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\PruebaAPI.exe
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\PruebaAPI.pdb
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\RestSharp.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Buffers.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Memory.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Numerics.Vectors.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Encodings.Web.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Json.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.ValueTuple.dll
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\RestSharp.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Buffers.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Memory.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Numerics.Vectors.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Encodings.Web.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Text.Json.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\bin\Debug\System.ValueTuple.xml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.AssemblyReference.cache
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.SuggestedBindingRedirects.cache
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\MainWindow.g.cs
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\App.g.cs
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI_MarkupCompile.cache
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI_MarkupCompile.lref
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\MainWindow.baml
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.g.resources
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.Properties.Resources.resources
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.GenerateResource.cache
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.CoreCompileInputs.cache
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.csproj.CopyComplete
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.exe
+F:\DAM\02-Desarrollo de interfaces\01-Desarrollo de interfaces UF1\02-Ejercicios Entregables\02-Segunda evaluación\PruebaAPI\PruebaAPI\obj\Debug\PruebaAPI.pdb

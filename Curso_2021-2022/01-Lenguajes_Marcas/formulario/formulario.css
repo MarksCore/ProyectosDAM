@@ -1,0 +1,27 @@
+body {
+    background-color: darkkhaki;
+}
+
+table {
+    font-family: cursive;
+    text-align: center;
+    border: double 5px rgb(15, 50, 15);
+    margin: auto;
+    margin-top: 11%;
+}
+
+label {
+    display: block;
+}
+
+.sexo {
+    display: inline-block;
+}
+
+#enviar {
+    color: rgb(15, 50, 15);
+    background-color: forestgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: grab;
+    width: 100%;
+}

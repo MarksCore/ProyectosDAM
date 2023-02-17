@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Marcos Cerviño Pardo">
+    <meta name="description" content="Formularios y elaces">
+    <link rel="stylesheet" href="Formularios_enlaces.css">
+    <title>Práctica HTML5 - Formularios y enlaces</title>
+</head>
+
+<body>
+
+    <img src="img/aulanosa_logo.png" title="Logo Aula Nosa" alt="Imagen de logo de Aula Nosa.">
+
+    <ul>
+        <li id="google">
+            <a href="https://www.google.com/search?channel=crow5&client=firefox-b-d&q=aula+nosa">
+                Google
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.youtube.com/">
+                YOUTUBE
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.google.com/intl/es/gmail/about/">
+                Gmail
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.ilerna.es/">
+                Ilerna
+            </a>
+        </li>
+    </ul>
+
+    <div id="registro">
+        <h1>REGISTRO</h1>
+        <form>
+            <div class="datos">
+                <label for="nombre">Nombre:</label>
+                <input type="text" name="nombre" id="nombre" minlength="2" maxlength="15">
+            </div>
+
+            <div class="datos">
+                <label for="correo">Correo:</label>
+                <input type="email" name="correo" id="correo" required>
+            </div>
+
+            <div class="datos">
+                <label for="fecha_nacimiento">Fecha de nacimiento:</label>
+                <input type="date" name="fecha_nacimiento" id="fecha_nacimiento" max="2020-12-31" required>
+            </div>
+
+            <div class="datos">
+                <label for="mayor_edad">¿Mayor de edad?:</label>
+                <input type="radio" id="mayor_edad" name="mayor_edad" value="mayor">
+                <label for="mayor_edad">SÍ</label>
+                <input type="radio" id="mayor_edad" name="mayor_edad" value="menor" >
+                <label for="mayor_edad">NO</label>
+            </div>
+
+            <div class="datos">
+                <label for="pais">País:</label>
+                <select name="pais" id="pais">
+                    <option>Italia</option>
+                    <option selected>España</option>
+                    <option>Francia</option>
+                    <option disabled>Grecia</option>
+                </select>
+            </div>
+
+            <div class="datos">
+                <label for="descripcion">Cuéntanos sobre tí:</label>
+                <textarea name="descripcion" id="descripcion" placeholder="Escribe aquí." cols="55" rows="5"></textarea>
+            </div>
+
+            <div class="datos">
+                <input type="checkbox" name="consentimiento" id="consentimiento" checked required>
+                <label for="consentimiento"> Declaro haber leído y aceptar las condiciones generales del programa y la
+                    normativa sobre protección de datos.</label>
+            </div>
+
+            <div id="enviar_div">
+                <input type="submit" name="enviar" id="enviar" value="Enviar">
+            </div>
+        </form>
+    </div>
+</body>
+
+<footer>
+    <p>Nombre: MARCOS CERVIÑO</p>
+</footer>
+
+</html>

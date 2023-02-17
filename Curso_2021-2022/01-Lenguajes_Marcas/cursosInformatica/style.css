@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+    background-color:cadetblue;
+}
+
+#mainlist {
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: bold;
+    columns: 3;
+    list-style-type: none;
+    background-color: rgb(10, 10, 50);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.enlacesMain:hover {
+    background-color:dodgerblue;
+    color:chocolate;
+}
+
+#mainImg {
+    width: 90%;
+    height: 275px;
+    margin-bottom: 2%;
+}
+
+table {
+    border: solid 1px black;
+    border-spacing: 0ch;
+}
+
+td {
+    border: solid 1px black;
+}
+
+.cursosImg {
+    width: 90%;
+    height: 250px;
+    margin-top: 10%;
+}
+
+.tableFigCapt {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+.cursosListas {
+    columns: 2;
+    text-align: left;
+    list-style-type: none;
+}
+
+.elementosListasCursos::before {
+    content: '✓';
+    color: crimson;
+}
+
+button {
+    background-color: darkblue;
+    color: antiquewhite;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    cursor: grab;
+}
+
+footer {
+    margin-top: 1%;
+    background-color:rgb(10, 10, 50);
+    color: whitesmoke;
+    font-size: 16px;
+}
+.contactoImg {
+    margin-top: 15px;
+    width: 5%;
+    height: 85px;
+}
+
+.primeraTerceraCol {
+    background-color:lightblue;
+}
+
+#segundaCol {
+    background-color:cornflowerblue;
+}

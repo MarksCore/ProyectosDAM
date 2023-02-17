@@ -1,0 +1,60 @@
+body{
+    background-color:darkkhaki;
+}
+
+h1 {
+    letter-spacing: 7px;
+    text-align: center;
+    font-variant: small-caps;
+    text-shadow: 14px 15px gray;
+}
+
+div {
+    border: solid 5px rgb(95, 25, 25);
+    border-radius: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: darkgreen;
+    height: 800px;
+}
+
+img {
+    position: absolute;
+    width: 15%;
+    cursor: grab;
+}
+
+img:hover { 
+    transform: translate(350px);
+    transition: ease-in-out 2s;
+}
+
+#diez_diamantes {
+    margin-left: 280px;
+    margin-top: 60px;
+    z-index: 4;
+}
+
+#nueve_diamantes {
+    margin-left: 380px;
+    margin-top: 120px;
+    z-index: 3;  
+}
+
+#ocho_diamantes {
+    margin-left: 480px;
+    margin-top: 180px;
+    z-index: 2;
+}
+
+#siete_diamantes {
+    margin-left: 580px;
+    margin-top: 240px;
+    z-index: 1;
+}
+
+#seis_diamantes {
+    margin-left: 680px;
+    margin-top: 300px;
+    z-index: 0;
+}

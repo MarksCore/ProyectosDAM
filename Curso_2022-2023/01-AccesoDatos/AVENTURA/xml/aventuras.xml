@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aventuras>
+<aventura titulo="Perdido en el océano">
+<escena codigo="1">
+<texto>
+Recobro la consciencia y me encuentro nadando en algún punto del Atlántico, milagrosamente con vida tras el impacto de mi avión contra el agua.
+Puedo apreciar a escasos metros, tras los restos flotantes del accidente, un faro en medio del océano aislado de la costa que destaca entre la oscuridad de la noche.
+Observando el horizonte, a lo lejos, se puede distinguir lo que parece ser una isla.
+</texto>
+<opcion id = "1" texto="Me mantengo en el agua sobre una superficie flotante." resultado="5"/>
+<opcion id = "2" texto="Nado en dirección al faro." resultado="2"/>
+<opcion id = "3" texto="Nado en dirección a la isla." resultado="7"/>
+</escena>
+	
+<escena codigo="2">
+<texto>
+Alcanzo el faro y subo por unas escaleras curiosamente iluminadas por unos faroles situados a los laterales que desprenden una luz tenue.
+Cuando llego al final de las escaleras, me encuentro con una enorme puerta dorada y desgastada por el paso del tiempo.
+</texto>
+<opcion id = "1" texto="Empujo para intentar abrir la puerta." resultado="3"/>
+<opcion id = "2" texto="Espero en el exterior del faro a que me rescaten." resultado="7"/>
+<opcion id = "3" texto="Bajo las escaleras y continuo nadando hacia la isla." resultado="7"/>
+</escena>
+
+<escena codigo="3">
+<texto>
+Una vez abierta la puerta, entro y veo una enorme sala que se ilumina ante mi, decorada con un característico estilo art decó.
+Puedo apreciar unas escaleras que descienden y otras que suben hacia algún lugar. Repentinamente, la puerta se cierra.
+</texto>
+<opcion id = "1" texto="Subo las escaleras." resultado="6"/>
+<opcion id = "2" texto="Bajo las escaleras." resultado="4"/>
+<opcion id = "3" texto="Permanezco en la sala principal." resultado="6"/>	
+</escena>
+
+<escena codigo="4">
+<texto>
+Tras bajar las escaleras, me encuentro con una sala que dispone de una batisfera con un mecanismo de palanca en su interior.
+</texto>
+<opcion id = "1" texto="Entro en la batisfera y acciono la palanca." resultado="8"/>
+<opcion id = "2" texto="Subo las escaleras." resultado="6"/>
+<opcion id = "3" texto="Permanezco en esta sala." resultado="6"/>
+</escena>
+
+<escena codigo="5">
+<texto>
+Empiezo a sentir un poco de frío...
+</texto>
+<opcion id = "1" texto="Busco algo con lo que abrigarme y sigo esperando por un posible rescate." resultado="7"/>
+<opcion id = "2" texto="Nado hacia el faro." resultado="2"/>
+<opcion id = "3" texto="Nado hacia la isla." resultado="7"/>
+</escena>
+
+<escena codigo="6">
+<texto>
+Escucho un ruido similar al de un taladro y aparece ante mí una criatura de grandes dimensiones vestido con algo parecido a una escafandra. Siento que algo atraviesa mi pecho.
+FIN DE PARTIDA.
+</texto>
+</escena>
+
+<escena codigo="7">
+<texto>
+El frío cada vez se hace más insoportable, pierdo la consciencia lentamente y me desmayo...
+FIN DE PARTIDA.
+</texto>
+</escena>
+	
+<escena codigo="8">
+<texto>
+La batisfera comienza su descenso hacia las profundidades. Confuso y asustado por todo lo ocurrido, cruzo los dedos para seguir con vida.
+CONTINUARÁ...
+</texto>
+</escena>
+</aventura>
+
+<aventura titulo="Profundidades desconocidas">
+<escena codigo="1">
+<texto>
+Me encuentro descendiendo hacia las profundidades del océano Atlántico en una extraña batisfera.
+Puedo visualizar cada vez mejor una ciudad sumergida, construida sobre el fondo marino.
+La batisfera me lleva al interior de este misterioso lugar y se detiene en una estancia que parece una especie de estación.
+A continuación, se abre la puerta de la bastisfera.
+</texto>
+<opcion id = "1" texto="Salgo de la batisfera con cautela." resultado="2"/>
+<opcion id = "2" texto="Acciono el sistema de palanca de la batisfera." resultado="4"/>
+<opcion id = "3" texto="Espero sentado en el interior de la batisfera." resultado="3"/>
+</escena>
+	
+<escena codigo="2">
+<texto>
+En el instante en el que salgo de la batisfera, aparece un ser agresivo con unas garras en sus extremidades,
+puedo ver una llave inglesa a escasos metros... El ente se dirige hacia mí...
+</texto>
+<opcion id = "1" texto="Corro en dirección a la batisfera." resultado="5"/>
+<opcion id = "2" texto="Intento alcanzar la llave inglesa para defenderme." resultado="5"/>
+<opcion id = "3" texto="Grito pidiendo ayuda intentando que alguien venga a socorrerme." resultado="6"/>
+</escena>
+
+<escena codigo="3">
+<texto>
+Después de varias horas esperando a que algo ocurra, no sucede nada...
+</texto>
+<opcion id = "1" texto="Salgo de la batisfera con cautela." resultado="2"/>
+<opcion id = "2" texto="Acciono el sistema de palanca de la batisfera." resultado="4"/>
+</escena>
+
+<escena codigo="4">
+<texto>
+Al accionar la palanca la batisfera parece que vuelve a sumergirse, pero de manera repentina esta se detiene en medio de su descenso.
+Comienza a entrar agua, cada vez dispongo de menos oxígeno para respirar, no hay escapatoria. El agua inunda mis pulmones...
+FIN DE PARTIDA
+</texto>
+</escena>
+
+<escena codigo="5">
+<texto>
+El ser es muy rápido, consigue alcanzame, su fuerza es sobrehumana, me levanta en el aire y me lanza contra uno de los muros de la sala.
+Pierdo el conocimiento...
+FIN DE PARTIDA.
+</texto>
+</escena>
+
+<escena codigo="6">
+<texto>
+Tras haber levantado la voz, se puede escuchar el sonido de unas sirenas y aparecen unos artefactos voladores que comienzan a disparar contra ese individuo. 
+Este sale corriendo, huyendo de dichos dispositivos que van tras él y ambos desaparecen de mi vista. Parece que todo ha vuelto a la calma, puedo continuar avanzando.
+Ante mí hay dos posibles túneles.
+Debo decidir qué camino escoger o volver atrás... 
+</texto>
+<opcion id = "1" texto="Vuelvo a la batisfera y activo la palanca de su interior." resultado="4"/>
+<opcion id = "2" texto="Continúo caminando por el tunel de la derecha." resultado="7"/>
+<opcion id = "3" texto="Continúo caminando por el tunel de la izquierda." resultado="8"/>	
+</escena>
+
+<escena codigo="7">
+<texto>
+Una vez he recorrido una larga distancia, llego a lo que parece el final del tunel. 
+Veo un lugar devastado en el que el mobiliario se encuentra destruido.
+Tengo la sensación de que hay algo detrás de mí... 
+Miro a mi espalda y me topo otra vez con ese ser que salta sobre mí y me golpea contundentemente.
+Pierdo la consciencia...
+FIN DE PARTIDA
+</texto>
+</escena>
+
+<escena codigo="8">
+<texto>
+Después de caminar durante varios minutos veo al final del tunel una gran puerta metálica con una rendija. Al acercarme, una persona desde el otro lado
+me pregunta si creo en el libre albedrío.
+</texto>
+<opcion id = "1" texto="Respondo que sí, ya que he podido tomar decisiones." resultado="9"/>
+<opcion id = "2" texto="Respondo que no porque, en realidad, no he tenido opción de evitar lo ocurrido." resultado="10"/>
+<opcion id = "3" texto="No respondo por miedo a fallar en mi respuesta y quedarme fuera, desprotegido." resultado="9"/>
+</escena>
+
+<escena codigo="9">
+<texto>
+La persona me responde que, en realidad, ninguno de nuestros actos es libre, sino que ya estaban
+preestablecidos por un conjunto de condiciones y que estas hacen que suceda lo que debe suceder
+en cada momento. En este caso, tal y como la historia estaba diseñada, yo debería tener un encuentro
+con un grupo de seres similar al que vi en la segunda escena, por tanto, así fue, aparecieron esos seres
+y me atacaron provocando mi fin, tal y como estaba definido que iba a ocurrir, según el principio de causalidad.
+FIN DE PARTIDA.
+</texto>
+</escena>
+
+<escena codigo="10">
+<texto>
+Se abre la puerta y puedo acceder a un gran espacio de varias plantas parecido a un gigante centro de ocio
+en el que se puede apreciar personas haciendo cosas normales como pasear, conversar, leer un libro, tomar
+un café, etc... La persona que me ha abierto la puerta y me ha invitado a entrar, me comenta que el libre
+albedrío es una falsa ilusión y que todas las elecciones que he hecho estaban destinadas a que muriese o
+que acabase allí, formando parte de una comunidad que es consciente de que todo está determinado, que no
+tenemos capacidad de decisión, sino que toda decisión tomada es resultado de eventos pasados siguiendo la
+ley de causa-efecto. Considerando esa perspectiva, me despierto y me doy cuenta de que todo ha sido un
+sueño, pero un sueño que me haría reflexionar para el resto de los días de mi vida.
+FIN DE AVENTURA.
+</texto>
+</escena>
+</aventura>
+</aventuras>

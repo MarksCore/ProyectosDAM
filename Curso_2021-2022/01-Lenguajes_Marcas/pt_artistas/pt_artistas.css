@@ -1,0 +1,94 @@
+body {
+    background-image: url(img/background_rock.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+table {
+    width: 65%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td {
+    border: solid 5px rgb(185, 185, 185);
+    width: 25%;
+    background-color: black;
+}
+
+img {
+    width: 100%;
+}
+
+img:hover {
+    display: none;
+}
+
+.columna2 {
+    padding: 20px;
+    width: 30%;
+    background-color: rgb(60, 60, 60);
+}
+
+ul {
+    list-style-type: none;
+    width: 70%;
+    margin: auto;
+    padding: 50px;
+    border-radius: 15%;
+    background-color: azure;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    line-height: 20%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: cadetblue;
+}
+
+.cancion {
+    color: darkred;
+}
+
+.cancion::after {
+    content: '♫';
+    color: blueviolet;
+}
+
+audio {
+    filter: opacity(16%);
+    margin-top: 7%;
+}
+
+audio:hover {
+    filter: opacity(100%);
+}
+
+video {
+    width: 100%;
+}

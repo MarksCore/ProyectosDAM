@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <!-- Propiedades de conexión a base de datos -->
+        <property name="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</property>
+        <property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="hibernate.connection.url">jdbc:sqlserver://localhost:1433;databaseName=HibernateBBDD</property>
+        <property name="hibernate.connection.username">sa</property>
+        <property name="hibernate.connection.password">ADMIN0</property>
+        <property name="hibernate.default_schema">dbo</property>
+        <property name="hibernate.connection.encrypt">true</property>
+        <property name="hibernate.connection.trustServerCertificate">true</property>
+
+        <!-- Escribe todas las sentencias SQL en la consola. -->
+        <property name="hibernate.show_sql">true</property>
+        <!-- create = Crea el esquema de la base de datos eliminando datos anteriores. -->
+        <!-- update = Actualiza el esquema de la base de datos aplicando cambios. -->
+        <!-- validate = Valida el esquema de la base de datos sin realizar cambios. -->
+        <!-- create-drop = Crea el esquema de la base de datos y lo elimina al cerrar sesión. -->
+        <!-- none = No hace nada. -->
+        <property name="hibernate.hbm2ddl.auto">create</property>
+        <!-- Proporciona una estrategia personalizada para el alcance de la sesión actual. -->
+        <!-- thread = Cada hilo tiene su propia sesión. -->
+        <property name="hibernate.current_session_context_class">thread</property>
+
+        <!-- Mapeo de clases -->
+        <mapping class="org.example.Adjudicacion"/>
+        <mapping class="org.example.Licitacion"/>
+        <mapping class="org.example.Proveedor"/>
+
+    </session-factory>
+</hibernate-configuration>
